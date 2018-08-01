@@ -39,4 +39,9 @@ function education(edu){
     var tr="<tr> <td> s.no</td><td> Degree</td><td> institute </td> <td> data </td> ";
     table.innerHTML=tr;
     table.border="1";
+    var tr1="";
+    for(var i=0; i<edu.length;i++){
+    tr1+="<tr><td>"+(i+1)+" </td><td>" +edu[i].degree+"</td> <td>"+edu[i].Institudte+" </td><td>"+edu[i].data+" </td></tr>";
+    }
+    table.innerHTML=tr+tr1;
 }
