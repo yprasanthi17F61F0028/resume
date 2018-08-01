@@ -18,5 +18,35 @@
   "Institute":"narayana juniour college",
   "data":["2014","80%"]
 }
+],
+
+"skills":[
+  {
+    "title":"programming language",
+    "set":["java","c","python","c++"]
+  },
+  {
+    "title":"web Technologie",
+    "set":["HTML","css","php","javascript"]
+  },
+  {
+      "title":"Data Bases",
+      "set":["sql","mysql","oracle","Nosql"]
+    },
+    {
+        "title":"Operating system",
+        "set":["windows","dos","linux","mac"]
+      }
+],
+"achievements":[
+{
+  "achievedData":"Got 1<sup>st</sup> prize in PPT presentation."
+},
+{
+  "achievedData":"Got 1<sup>st</sup> prize in poster presentation."
+},
+{
+    "achievedData":"Got 1<sup>st</sup> prize in seminor presentation."
+}
 ]
 }
