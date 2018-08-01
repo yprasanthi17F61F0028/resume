@@ -1,6 +1,22 @@
 {
   "career":{
     "info": "To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
-
- }
+},
+ "education":[
+   {
+   "degree":"MCA (Master of computer apllication)",
+   "Institute":"Siddhartha institute of engineering and technology",
+   "data":["2020-19","78%"]
+ },
+ {
+   "degree":"Bsc(computer science)",
+   "Institute":"gate degree college",
+   "data":["2017","70%"]
+ },
+{
+  "degree":"Mpc",
+  "Institute":"narayana juniour college",
+  "data":["2014","80%"]
+}
+]
 }
